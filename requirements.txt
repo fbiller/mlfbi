@@ -5,3 +5,4 @@ azure-cognitiveservices-vision-computervision
 azure-common
 azure-core
 azure-storage-blob
+matplotlib
