@@ -2,6 +2,6 @@ Flask
 Werkzeug
 Pillow
 azure-cognitiveservices-vision-computervision
-zure-common
+azure-common
 azure-core
 azure-storage-blob
